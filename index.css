@@ -1,12 +1,24 @@
-ul{
+.share-bar {
+	height: 19%;
+	width: 5%;
+	background: blue;
+	color: red;
+	text-align: center;
+
+	position: fixed;
+	top: 60%;
+	right: 10%;
+}
+
+ul {
 	list-style-type: none;
 }
 
-.centered-text{
+.centered-text {
 	text-align: center;
 }
 
-.directions-item{
+.directions-item {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
@@ -14,6 +26,7 @@ ul{
 .image-parent {
 	position: relative;
 }
+
 .centering-img {
 	height: 500px;
 	width: 450px;
