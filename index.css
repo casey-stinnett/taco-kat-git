@@ -1,0 +1,12 @@
+ul{
+	list-style-type: none;
+}
+
+.centered-text{
+	text-align: center;
+}
+
+.directions-item{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
