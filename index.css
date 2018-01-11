@@ -1,0 +1,13 @@
+
+.share-bar {
+	height: 19%;
+	width: 5%;
+	background: blue;
+	color: red;
+	text-align: center;
+
+	position: fixed;
+	top: 60%;
+	right: 10%;
+
+}
